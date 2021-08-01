@@ -1,0 +1,13 @@
+body {
+    background-color:#19191D;
+  }
+.team{
+position: absolute;
+width: 1319.29px;
+height: 623px;
+left: 80px; 
+right:23px;
+top: 81px;
+align-items: center;
+background: #19191D;
+}
